@@ -1,0 +1,14 @@
+{
+    "id": "l1",
+    "name": "Golden Hooves League",
+    "creatorId": 1,
+    "isPrivate": false,
+    "members": [
+        1,
+        2
+    ],
+    "rules": {
+        "maxHorsesPerUser": 3,
+        "entryFee": 50
+    }
+}

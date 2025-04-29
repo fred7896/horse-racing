@@ -1,0 +1,22 @@
+[
+    {
+        "id": "h1",
+        "name": "Midnight Thunder",
+        "age": 5,
+        "breed": "Thoroughbred",
+        "speed": 87,
+        "stamina": 78,
+        "price": 300,
+        "ownerId": 1
+    },
+    {
+        "id": "h2",
+        "name": "Blazing Comet",
+        "age": 4,
+        "breed": "Arabian",
+        "speed": 92,
+        "stamina": 81,
+        "price": 350,
+        "ownerId": null
+    }
+]
