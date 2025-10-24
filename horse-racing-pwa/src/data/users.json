@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "name": "DemoUser",
+    "balance": 1000,
+    "ownedHorses": [
+        "h1",
+        "h2"
+    ],
+    "joinedLeagues": [
+        "l1"
+    ]
+}

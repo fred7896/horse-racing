@@ -1,0 +1,20 @@
+{
+    "id": "r1",
+    "name": "Sunset Sprint",
+    "status": "upcoming",
+    "participants": [
+        "h1",
+        "h3",
+        "h7"
+    ],
+    "leagueId": "l1",
+    "startTime": "2025-05-01T14:00:00Z",
+    "results": {
+        "winner": "h3",
+        "placements": [
+            "h3",
+            "h1",
+            "h7"
+        ]
+    }
+}
